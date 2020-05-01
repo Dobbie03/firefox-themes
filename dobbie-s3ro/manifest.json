@@ -1,10 +1,10 @@
 {
-  "manifest_version": 2,
-  "version": "1.13",
+  "manifest_version": 1,
+  "version": "1.0",
   "name": "Dobbie s3ro",
   "author": "Matthew Dobson",
   "description": "Unified simple dark theme that removes borders colours from nixie-s3ro GTK theme",
-  "homepage_url": "https://github.com/dobbie03/firefox_themes",
+  "homepage_url": "https://github.com/dobbie03/firefox-themes",
   "icons": {
     "16": "icon-16.png",
     "48": "icon-48.png",
